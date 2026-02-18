@@ -8,4 +8,4 @@ Talks/Lectures:
  - (pdf)
 
 Useful Code:
- - Parallelized Implementation of Hyperband Hyperparameter Tuning Algorithm (code)
+ - Parallelized Implementation of Hyperband Hyperparameter Tuning Algorithm ([code](https://github.com/VincentPisztora/Parallel-Hyperband-Hyperparameter-Tuner))
