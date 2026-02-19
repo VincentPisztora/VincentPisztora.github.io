@@ -5,7 +5,7 @@ Papers:
  - Learning Performance Maximizing Ensembles with Explainability Guarantees ([AAAI24](https://ojs.aaai.org/index.php/AAAI/article/view/29378)) ([arxiv](https://arxiv.org/abs/2312.12715)) (code)
 
 Talks/Lectures/Notes:
- - (pdf)
+ - Notes on Normalizing Flows ([pdf](./Notes_Normalizing_Flows.pdf))
 
 Useful Code:
  - Parallelized Implementation of Hyperband Hyperparameter Tuning Algorithm ([code](https://github.com/VincentPisztora/Parallel-Hyperband-Hyperparameter-Tuner))
