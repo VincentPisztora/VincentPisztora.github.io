@@ -9,4 +9,9 @@ Talks/Lectures/Notes:
  - Notes on Normalizing Flows ([pdf](./Notes_Normalizing_Flows.pdf))
 
 Useful Code:
+ - Commonly Used Neural Network Architectures Implemented in TF2 ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures))
+    - ResNet ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_resnet.py))
+    - WideResNet ([code]())
+    - ViT ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_ViT.py))
+    - ViT-MAE ([code]())
  - Parallelized Implementation of Hyperband Hyperparameter Tuning Algorithm ([code](https://github.com/VincentPisztora/Parallel-Hyperband-Hyperparameter-Tuner))
