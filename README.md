@@ -11,7 +11,7 @@ Talks/Lectures/Notes:
 Useful Code:
  - Commonly Used Neural Network Architectures Implemented in TF2 ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures))
     - ResNet ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_resnet.py))
-    - WideResNet ([code]())
+    - WideResNet ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_wrn.py))
     - ViT ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_ViT.py))
-    - ViT-MAE ([code]())
+    - ViT-MAE ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_ViTMAE.py))
  - Parallelized Implementation of Hyperband Hyperparameter Tuning Algorithm ([code](https://github.com/VincentPisztora/Parallel-Hyperband-Hyperparameter-Tuner))
