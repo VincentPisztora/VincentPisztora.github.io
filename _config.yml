@@ -1,11 +1,13 @@
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: classic
   social_links:
-    - platform: github
-      user_url: "https://vincentpisztora.github.io/"
-    - platform: linkedin
-      user_url: "https://www.linkedin.com/in/vincent-pisztora-0b774728"
+    - title: Vincent Pisztora GitHub
+      icon: github
+      url: "https://github.com/VincentPisztora"
+    - title: Vincent Pisztora LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/vincent-pisztora-0b774728"
 
 title: Vincent Pisztora
 
