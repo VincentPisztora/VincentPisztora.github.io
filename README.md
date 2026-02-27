@@ -1,7 +1,7 @@
 <!-- # VincentPisztora.github.io -->
 
 ---
-title: Vincent Pisztora
+Vincent Pisztora
 ---
 
 ## Papers
