@@ -1,14 +1,13 @@
 theme: minima
 minima:
   skin: dark
-
-title: Vincent Pisztora
-
-author: Vincent Pisztora
-
-minima:
   social_links:
     - platform: github
       user_url: "https://vincentpisztora.github.io/"
     - platform: linkedin
       user_url: "https://www.linkedin.com/in/vincent-pisztora-0b774728"
+
+title: Vincent Pisztora
+
+author: Vincent Pisztora
+  
