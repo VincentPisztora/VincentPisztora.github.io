@@ -1,6 +1,10 @@
 <!-- # VincentPisztora.github.io -->
 
-hide_footer: true
+---
+layout: default
+title: Vincent Pisztora
+---
+<style>.site-footer { display: none; }</style>
 
 ## Papers
 
