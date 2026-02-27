@@ -6,18 +6,9 @@ title: Vincent Pisztora
 
 author: Vincent Pisztora
 
-social_links:
-    - title: Vincent Pisztora
-      icon: github
-      url: "https://vincentpisztora.github.io/"
-    - title: Vincent Pisztora
-      icon: linkedin
-      url: "https://www.linkedin.com/in/vincent-pisztora-0b774728"
-
-
-defaults:
-  - scope:
-      path: "" # "" means all files in the project
-    values:
-      layout: "page"
-      hide_footer: true # This requires an override of header.html to work
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://vincentpisztora.github.io/"
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/vincent-pisztora-0b774728"
