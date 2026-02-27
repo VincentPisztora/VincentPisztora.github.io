@@ -1,6 +1,6 @@
 <!-- # VincentPisztora.github.io -->
 
-<style>.site-footer { display: none; }</style>
+hide_footer: true
 
 ## Papers
 
