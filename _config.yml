@@ -4,4 +4,12 @@ minima:
 
 title: Vincent Pisztora
 
-author: 
+author: Vincent Pisztora
+
+social_links:
+    - title: Vincent Pisztora
+      icon: github
+      url: "https://vincentpisztora.github.io/"
+    - title: Vincent Pisztora
+      icon: linkedin
+      url: "https://www.linkedin.com/in/vincent-pisztora-0b774728"
