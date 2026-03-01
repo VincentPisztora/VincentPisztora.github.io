@@ -7,7 +7,7 @@
 
 ## Talks/Lectures/Notes
 
- - Introductory Deep Learning Lecture Series ([link](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series))
+ - Introductory Deep Learning Lecture Series ([link](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
  - Notes on Normalizing Flows ([pdf](./Notes_Normalizing_Flows.pdf))
 
 ## Some Useful Code
