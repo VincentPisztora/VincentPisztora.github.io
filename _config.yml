@@ -1,6 +1,6 @@
 remote_theme: jekyll/minima
 minima:
-  skin: light
+  skin: classic
   social_links:
     - title: Vincent Pisztora GitHub
       icon: github
