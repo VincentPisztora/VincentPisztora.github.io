@@ -3,11 +3,9 @@
 ![My Profile Picture]({{ site.baseurl }}/assets/profile.jpg){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
 
 **About Me**  
-Write your paragraph of text here. Since the image is "floating" to the left, this text will naturally fill the space on the right side. If your paragraph is long, it will continue underneath the image once it passes the image's height.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div style="clear: both;"></div>
-
-This text will always start *below* the image and paragraph because of the "clear" tag above.
 
 ## Papers
 
