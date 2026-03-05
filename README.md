@@ -10,8 +10,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Talk and Lecture Materials
 
- - Introductory Deep Learning Lecture Series ([link](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
- - Normalizing Flows Tutorial ([link](./Notes_Normalizing_Flows.pdf))
+ - Introductory Deep Learning Lecture Series ([notes](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
+ - Normalizing Flows Tutorial ([notes](./Notes_Normalizing_Flows.pdf))
 
 ## Some Useful Code
 
