@@ -1,5 +1,5 @@
 <!-- # VincentPisztora.github.io -->
-![My Profile Picture]({{ site.baseurl }}/assets/profile.jpg){: style="width: 150px; border-radius: 50%;"}
+![My Profile Picture]({{ site.baseurl }}/assets/profile.jpg){: style="width: 150px; border-radius: 50%;"} Sample text
 
 ## Papers
 
