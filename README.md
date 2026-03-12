@@ -6,7 +6,7 @@
 **About Me**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<a href="https://github.com/VincentPisztora" style="text-decoration:none;"><span style="display:inline-block; width:16px; height:16px; vertical-align:-0.125em; margin-right:4px;">{% include icon-github.svg %}</span> GitHub</a>
+{% include icon-github.html username="VincentPisztora" %}
 
 <div style="clear: both;"></div>
 ---
