@@ -1,8 +1,5 @@
 <!-- # VincentPisztora.github.io -->
----
-layout: post
-title: Vincent Pisztora
----
+
 
 ![My Profile Picture]({{ site.baseurl }}/assets/profile.jpg){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
 
