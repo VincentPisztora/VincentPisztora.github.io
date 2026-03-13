@@ -15,6 +15,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 
  - Introductory Deep Learning Lecture Series ([notes](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
  - Normalizing Flows Tutorial ([notes](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Notes_Normalizing_Flows.pdf))
+ - Epsilon Consistent Mixup: Adaptive Data Augmentation in the Semi-Supervised Setting ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf))
 
 ## Some Useful Code
 
@@ -28,7 +29,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 ## Publications
 
  - Assessment of Self Supervised Feature Properties in Multimodal Pathology Imaging (in preparation)
- - Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff ([Stat](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425)) ([arxiv](https://arxiv.org/abs/2104.09452)) ([code](https://github.com/VincentPisztora/Epsilon-Consistent-Mixup/blob/main/README.md))
+ - Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff ([Stat](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425)) ([arxiv](https://arxiv.org/abs/2104.09452)) ([code](https://github.com/VincentPisztora/Epsilon-Consistent-Mixup/blob/main/README.md)) ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf))
  - Learning Performance Maximizing Ensembles with Explainability Guarantees ([AAAI24](https://ojs.aaai.org/index.php/AAAI/article/view/29378)) ([arxiv](https://arxiv.org/abs/2312.12715)) ([code](https://github.com/VincentPisztora/Learning-Performance-Maximizing-Ensembles-with-Explainability-Guarantees/blob/main/README.md))
  - Unsupervised and Semi-Supervised Learning, Handbook of Computational Statistics in Data Science ([Wiley](https://www.wiley.com/en-us/Computational+Statistics+in+Data+Science-p-9781119561071))
  - Semi-Supervised Cervical Dysplasia Classification with Learnable Graph Convolutional Kernel ([ISBI](https://ieeexplore.ieee.org/document/9098507)) ([arxiv](https://arxiv.org/abs/2004.00191))
