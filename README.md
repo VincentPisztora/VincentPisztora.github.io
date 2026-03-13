@@ -13,11 +13,10 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 
 ## Talks and Lectures
 
- - Introductory Deep Learning Lecture Series ([notes](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
- - Normalizing Flows Tutorial ([notes](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Notes_Normalizing_Flows.pdf))
  - Epsilon Consistent Mixup: Adaptive Data Augmentation in the Semi-Supervised Setting ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf))
  - Learning Performance Maximizing Ensembles with Explainability Guarantees ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Learning_Performance_Maximizing_Ensembles_with_Explainability_Guarantees.pdf))
-
+ - Introductory Deep Learning Lecture Series ([notes](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
+ - Normalizing Flows Tutorial ([notes](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Notes_Normalizing_Flows.pdf))
 
 ## Some Useful Code
 
