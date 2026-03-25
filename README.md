@@ -11,14 +11,14 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 <div style="clear: both;"></div>
 ---
 
-## Talks and Lectures
+## Talks and lectures
 
  - Epsilon Consistent Mixup: Adaptive Data Augmentation in the Semi-Supervised Setting ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf))
  - Learning Performance Maximizing Ensembles with Explainability Guarantees ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Learning_Performance_Maximizing_Ensembles_with_Explainability_Guarantees.pdf))
  - Introductory Deep Learning Lecture Series ([notes](https://github.com/VincentPisztora/Introductory-Deep-Learning-Lecture-Series/blob/main/README.md))
  - Normalizing Flows Tutorial ([notes](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Notes_Normalizing_Flows.pdf))
 
-## Some Useful Code
+## Some useful code
 
  - Commonly Used Neural Network Architectures Implemented in TF2 ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/README.md))
     - ResNet ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/models_resnet.py))
