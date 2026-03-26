@@ -1,7 +1,7 @@
 <!-- # VincentPisztora.github.io -->
 
 
-![My Profile Picture]({{ site.baseurl }}/assets/profile.png){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
+![My Profile Picture]({{ site.baseurl }}/assets/profile.PNG){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
 
 **About Me**  
 I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/departments/epidemiology-biostatistics/biostatistics). I received my Ph.D. in Statistics from [Pennsylvania State University](https://science.psu.edu/stat) in 2024, where I was advised by [Dr. Jia Li](https://sites.psu.edu/jol2/). I received my Masters in Statistical Practice from [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html) in 2016 and my B.S. in Business Administration (Finance) also from [Carnegie Mellon University](https://www.cmu.edu/tepper) in 2013. 
