@@ -178,7 +178,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
     <a href="https://arxiv.org/abs/2004.00191" class="img-link">
       <img src="{{ site.baseurl }}/assets/pub_eeg2.png" alt="Thumbnail for Publication 5">
     </a>
-    <p>Model Agnostic Regularization via Data Augmentation and Explainable Ensembles<br>(<a href="https://etda.libraries.psu.edu/catalog/30036uxp5">arxiv</a>)</p>
+    <p>Model Agnostic Regularization via Data Augmentation and Explainable Ensembles<br>(<a href="https://etda.libraries.psu.edu/catalog/30036uxp5">PSU</a>)</p>
   </div>
   
 </div>
