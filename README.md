@@ -23,7 +23,6 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 <style>
   .publications-grid {
     display: grid;
-    /* This creates responsive columns that wrap automatically */
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
     margin-top: 20px;
@@ -40,10 +39,24 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
     align-items: center;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
   }
+  
+  /* New class to ensure the link behaves properly */
+  .img-link {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    transition: opacity 0.2s ease-in-out;
+  }
+  
+  /* Adds a slight dimming effect when hovering over the image */
+  .img-link:hover {
+    opacity: 0.8;
+  }
+
   .pub-card img {
     width: 100%;
     height: 150px; 
-    object-fit: contain; /* Keeps the whole image visible without distortion */
+    object-fit: contain;
     border-radius: 4px;
     margin-bottom: 15px;
     border: 1px solid #e1e4e8;
@@ -59,27 +72,35 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 <div class="publications-grid">
 
   <div class="pub-card">
-    <img src="{{ site.baseurl }}/assets/pub_eeg.png" alt="Thumbnail for Publication 1">
+    <img src="{{ site.baseurl }}/assets/pub_ssl.png" alt="Thumbnail for Publication 1">
     <p>Assessment of Self Supervised Feature Properties in Multimodal Pathology Imaging (in preparation)</p>
   </div>
 
   <div class="pub-card">
-    <img src="{{ site.baseurl }}/assets/pub_emu2.png" alt="Thumbnail for Publication 2">
+    <a href="https://arxiv.org/abs/2104.09452" class="img-link">
+      <img src="{{ site.baseurl }}/assets/pub_emu2.png" alt="Thumbnail for Publication 2">
+    </a>
     <p>Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425">Stat</a>) (<a href="https://arxiv.org/abs/2104.09452">arxiv</a>) (<a href="https://github.com/VincentPisztora/Epsilon-Consistent-Mixup/blob/main/README.md">code</a>) (<a href="https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf">slides</a>)</p>
   </div>
 
   <div class="pub-card">
-    <img src="{{ site.baseurl }}/assets/pub_eeg3.png" alt="Thumbnail for Publication 3">
+    <a href="https://arxiv.org/abs/2312.12715" class="img-link">
+      <img src="{{ site.baseurl }}/assets/pub_eeg3.png" alt="Thumbnail for Publication 3">
+    </a>
     <p>Learning Performance Maximizing Ensembles with Explainability Guarantees (<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29378">AAAI24</a>) (<a href="https://arxiv.org/abs/2312.12715">arxiv</a>) (<a href="https://github.com/VincentPisztora/Learning-Performance-Maximizing-Ensembles-with-Explainability-Guarantees/blob/main/README.md">code</a>) (<a href="https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Learning_Performance_Maximizing_Ensembles_with_Explainability_Guarantees.pdf">slides</a>)</p>
   </div>
 
   <div class="pub-card">
-    <img src="{{ site.baseurl }}/assets/pub_ssl.png" alt="Thumbnail for Publication 4">
+    <a href="https://www.wiley.com/en-us/Computational+Statistics+in+Data+Science-p-9781119561071" class="img-link">
+      <img src="{{ site.baseurl }}/assets/pub_ssl2.png" alt="Thumbnail for Publication 4">
+    </a>
     <p>Unsupervised and Semi-Supervised Learning, Handbook of Computational Statistics in Data Science (<a href="https://www.wiley.com/en-us/Computational+Statistics+in+Data+Science-p-9781119561071">Wiley</a>)</p>
   </div>
 
   <div class="pub-card">
-    <img src="{{ site.baseurl }}/assets/pub_gcn.png" alt="Thumbnail for Publication 5">
+    <a href="https://arxiv.org/abs/2004.00191" class="img-link">
+      <img src="{{ site.baseurl }}/assets/pub_cgn.png" alt="Thumbnail for Publication 5">
+    </a>
     <p>Semi-Supervised Cervical Dysplasia Classification with Learnable Graph Convolutional Kernel (<a href="https://ieeexplore.ieee.org/document/9098507">ISBI</a>) (<a href="https://arxiv.org/abs/2004.00191">arxiv</a>)</p>
   </div>
 
