@@ -99,7 +99,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 
   <div class="pub-card">
     <a href="https://arxiv.org/abs/2004.00191" class="img-link">
-      <img src="{{ site.baseurl }}/assets/pub_cgn.png" alt="Thumbnail for Publication 5">
+      <img src="{{ site.baseurl }}/assets/pub_gcn.png" alt="Thumbnail for Publication 5">
     </a>
     <p>Semi-Supervised Cervical Dysplasia Classification with Learnable Graph Convolutional Kernel (<a href="https://ieeexplore.ieee.org/document/9098507">ISBI</a>) (<a href="https://arxiv.org/abs/2004.00191">arxiv</a>)</p>
   </div>
