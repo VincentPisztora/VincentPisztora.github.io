@@ -34,6 +34,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
     padding: 15px;
     text-align: center;
     background-color: #2d333b;
+    color: #ffffff;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -53,19 +54,35 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
     opacity: 0.8;
   }
 
-  .pub-card img {
+.pub-card img {
     width: 100%;
     height: 150px; 
     object-fit: contain;
     border-radius: 4px;
     margin-bottom: 15px;
-    border: 1px solid #e1e4e8;
-    background-color: #ffffff;
+    border: 1px solid #444c56;
+    background-color: #ffffff; /* Keeps image background white for transparent PNGs */
   }
-  .pub-card p {
+  
+  .pub-title {
     font-size: 0.9em;
     margin: 0;
     line-height: 1.4;
+    font-weight: 500;
+  }
+ 
+  .pub-links {
+    margin-top: 10px; /* Creates space between the title and the links */
+    font-size: 0.85em;
+  }
+  
+  .pub-links a {
+    color: #539bf5; /* Light blue color so links pop on the dark background */
+    text-decoration: none;
+  }
+  
+  .pub-links a:hover {
+    text-decoration: underline;
   }
 </style>
 
