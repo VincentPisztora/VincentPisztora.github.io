@@ -11,6 +11,60 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 <div style="clear: both;"></div>
 ---
 
+<div class="side-menu">
+  <div class="menu-title">Navigation</div>
+  <a href="#talks-and-lectures">Talks and Lectures</a>
+  <a href="#publications">Publications</a>
+  <a href="#some-useful-code">Some Useful Code</a>
+</div>
+
+<style>
+/* Fixes the menu to the left side of the screen */
+.side-menu {
+  position: fixed;
+  top: 100px;
+  left: 20px;
+  width: 220px;
+  background-color: #f6f8fa; /* GitHub light gray */
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  z-index: 1000;
+}
+
+.menu-title {
+  font-weight: 600;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #d0d7de;
+  font-size: 1.1em;
+}
+
+.side-menu a {
+  display: block;
+  margin-bottom: 10px;
+  color: #0969da;
+  text-decoration: none;
+  font-size: 0.95em;
+  transition: opacity 0.2s;
+}
+
+.side-menu a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+/* Crucial: Hides the menu on smaller screens (like laptops/phones) 
+   so it doesn't overlap the main text */
+@media (max-width: 1150px) {
+  .side-menu {
+    display: none;
+  }
+}
+</style>
+
 ## Talks and Lectures
 
  - Epsilon Consistent Mixup: Adaptive Data Augmentation in the Semi-Supervised Setting ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf))
