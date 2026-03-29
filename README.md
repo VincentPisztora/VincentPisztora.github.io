@@ -122,12 +122,6 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 
 </div>
 
- - Assessment of Self Supervised Feature Properties in Multimodal Pathology Imaging (in preparation)
- - Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff ([Stat](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425)) ([arxiv](https://arxiv.org/abs/2104.09452)) ([code](https://github.com/VincentPisztora/Epsilon-Consistent-Mixup/blob/main/README.md)) ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Adaptive_Data_Augmentation_In_Semi_Supervised_Setting.pdf))
- - Learning Performance Maximizing Ensembles with Explainability Guarantees ([AAAI24](https://ojs.aaai.org/index.php/AAAI/article/view/29378)) ([arxiv](https://arxiv.org/abs/2312.12715)) ([code](https://github.com/VincentPisztora/Learning-Performance-Maximizing-Ensembles-with-Explainability-Guarantees/blob/main/README.md)) ([slides](https://github.com/VincentPisztora/Miscellaneous-Materials/blob/main/Learning_Performance_Maximizing_Ensembles_with_Explainability_Guarantees.pdf))
- - Unsupervised and Semi-Supervised Learning, Handbook of Computational Statistics in Data Science ([Wiley](https://www.wiley.com/en-us/Computational+Statistics+in+Data+Science-p-9781119561071))
- - Semi-Supervised Cervical Dysplasia Classification with Learnable Graph Convolutional Kernel ([ISBI](https://ieeexplore.ieee.org/document/9098507)) ([arxiv](https://arxiv.org/abs/2004.00191))
-
 ## Some Useful Code
 
  - Commonly Used Neural Network Architectures Implemented in TF2 ([code](https://github.com/VincentPisztora/TF2-Implementations-of-Popular-Neural-Network-Architectures/blob/main/README.md))
