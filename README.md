@@ -88,7 +88,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
 <div class="publications-grid">
 
   <div class="pub-card">
-    <img src="{{ site.baseurl }}/assets/pub_ssl.png" alt="Thumbnail for Publication 1">
+    <img src="{{ site.baseurl }}/assets/pub_mif.png" alt="Thumbnail for Publication 1">
     <p>Assessment of Self Supervised Feature Properties in Multimodal Pathology Imaging<br>(in preparation)</p>
   </div>
 
