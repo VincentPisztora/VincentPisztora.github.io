@@ -33,7 +33,7 @@ I'm a Postdoctoral Research Fellow at [Memorial Sloan Kettering Cancer Center](h
     border-radius: 8px;
     padding: 15px;
     text-align: center;
-    background-color: #2d333b;
+    background-color: #94979c;
     color: #ffffff;
     display: flex;
     flex-direction: column;
